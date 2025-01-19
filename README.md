@@ -57,3 +57,14 @@ Epoch [95/100] Train Loss: 0.6703 Train Acc: 0.5999 Test Loss: 0.9164 Test Acc: 
 Epoch [100/100] Train Loss: 0.6675 Train Acc: 0.5876 Test Loss: 0.6852 Test Acc: 0.5623
 
 ![image](https://github.com/user-attachments/assets/7859cc24-7428-46f4-b052-0810896f3faa)
+
+# model.py
+
+model.py定义模型结构
+
+# main.py
+
+数据集加载、设置超参数等
+
+![Uploading image.png…]()
+
