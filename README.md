@@ -66,5 +66,6 @@ model.py定义模型结构
 
 数据集加载、设置超参数等
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1f043421-9464-4b7c-a3b1-09f16bd6b34c)
+
 
