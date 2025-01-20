@@ -58,6 +58,10 @@ Epoch [100/100] Train Loss: 0.6675 Train Acc: 0.5876 Test Loss: 0.6852 Test Acc:
 
 ![image](https://github.com/user-attachments/assets/7859cc24-7428-46f4-b052-0810896f3faa)
 
+# 知识蒸馏
+
+使用VIT和VGG16+CAM模型作为老师模型，使用轻量级Efficientnetv2模型作为学生模型
+
 # model.py
 
 model.py定义模型结构
